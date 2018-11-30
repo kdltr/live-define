@@ -3,4 +3,5 @@
  (category misc)
  (license "Public Domain")
  (dependencies matchable)
+ (test-dependencies test)
  (components (extension live-define)))
