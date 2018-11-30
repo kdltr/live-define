@@ -1,0 +1,6 @@
+((synopsis "Hack that replaces “define” with a version that mutates existing procedures.")
+ (author "Adrien (Kooda) Ramos")
+ (category misc)
+ (license "Public Domain")
+ (dependencies matchable)
+ (components (extension live-define)))
